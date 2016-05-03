@@ -6,11 +6,11 @@ Date: 2016-05-02
 Title: PoE data for R
 Authors@R: c(person("Constantin", "Colonescu", role = c("aut", "cre"),
 		     email = "ccolonescu@gmail.com"))
-Author: Constantin Colonescu [aut, cre]
+Author: Constantin Colonescu <ccolonescu@gmail.com>
 Maintainer: Constantin Colonescu <ccolonescu@gmail.com>
 Depends: R (>= 3.1.0)
 Description: Loads PoE data into R.
-License: CCO
+License: GPL-2
 URL: https://www.r-project.org, http://www.another.url
 BugReports: https://pkgname.bugtracker.url
 
