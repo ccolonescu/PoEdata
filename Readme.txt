@@ -1,4 +1,4 @@
-PoEdata package loads the data sets that accompany the "Principles of Economatrics textbook 
+PoEdata package loads the data sets that accompany the "Principles of Economatrics" textbook 
 by Carter Hill, William Griffiths, and Guay Lim, 4th edition.
 
 The package works best with R Studio.To install the PoEdata package, 
