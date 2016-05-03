@@ -11,12 +11,12 @@ The package works best with R Studio.To install the PoEdata package,
 
 Now it should be ready to use. For instance, if you wish to use the data set "andy":
  
- library(PoEdata)   # loads the package in meory
+ library(PoEdata)   # loads the package in memory
  ?andy              # shows dataset information
  data(andy)         # loads the dataset in memory
- summary(andy)      # calculated summary statistics
+ summary(andy)      # calculates summary statistics
  head(andy)         # shows the head of the data set
- summary(lm( sales ~ price + advert + I(advert^2), data = andy))  # an example of regression
+ summary(lm( sales ~ price + advert + I(advert^2), data = andy))  # calculates a regression
 
 
 * Some of the files do not have yet documentation, but I'm working on it; In the meantime, 
