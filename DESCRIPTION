@@ -22,3 +22,4 @@ Suggests: None
 Description: Loads PoE data into R.
 License: GPL (>= 2)
 URL: https://www.r-project.org, http://www.another.url
+BugReports: https://pkgname.bugtracker.url
