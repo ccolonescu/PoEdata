@@ -7,16 +7,16 @@ The package works best with R Studio.To install the PoEdata package,
  3. Find the file PoEdata.Rproj and open it in R Studio. 
     R Studio shold include all other files in the folder. If it doesn't, 
     check that you are in the un-zipped folder
- 4. Click on the buton "build and reload" 
+ 4. Click on the butons Build >> Build & Reload, which will install the package. 
 
 Now it should be ready to use. For instance, if you wish to use the data set "andy":
  
- library(PoEdata)
- ?andy
- data(andy)
- summary(andy)
- head(andy)
- summary(lm( sales ~ price + advert + I(advert ^2), data = andy))
+ library(PoEdata)   # loads the package in meory
+ ?andy              # shows dataset information
+ data(andy)         # loads the dataset in memory
+ summary(andy)      # calculated summary statistics
+ head(andy)         # shows the head of the data set
+ summary(lm( sales ~ price + advert + I(advert^2), data = andy))  # an example of regression
 
 
 * Some of the files do not have yet documentation, but I'm working on it; In the meantime, 
