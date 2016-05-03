@@ -10,6 +10,7 @@ Author: Constantin Colonescu [aut, cre]
 Maintainer: Constantin Colonescu <ccolonescu@gmail.com>
 Depends: R (>= 3.1.0)
 Description: Loads PoE data into R.
-License: GPL (>= 2)
+License: CCO
 URL: https://www.r-project.org, http://www.another.url
 BugReports: https://pkgname.bugtracker.url
+
