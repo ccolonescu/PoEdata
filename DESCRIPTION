@@ -9,9 +9,7 @@ Authors@R: c(person("Constantin", "Colonescu", role = c("aut", "cre"),
 Author: Constantin Colonescu <ccolonescu@gmail.com>
 Maintainer: Constantin Colonescu <ccolonescu@gmail.com>
 Depends: R (>= 3.1.0)
-Description: Loads data accompanying "Principles of Econometrics" by Carter Hill, 
+Description: Loads data accompanying "Principles of Econometrics" by Carter Hill,
  William Griffiths, and Guay Lim, 4th edition, Wiley, into R.
 License: GPL-2
-URL: https://www.r-project.org, http://www.another.url
-BugReports: https://pkgname.bugtracker.url
 
