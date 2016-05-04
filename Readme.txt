@@ -26,7 +26,7 @@ http://www.principlesofeconometrics.com/poe4/poe4def.htm
 
 * The package was built in windows and not tested on other systems.
 
-* Do not use 'devtools' to install the PoEdata package; it doesn't work.
+* Do not use 'devtools' to install the PoEdata package; it may not work.
 
 * The url information in the DESCRIPTION file is not valid. Please disregard it.
 
