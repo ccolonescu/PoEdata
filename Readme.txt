@@ -2,13 +2,9 @@ PoEdata package loads the data sets that accompany the "Principles of Economatri
 by Carter Hill, William Griffiths, and Guay Lim, 4th edition.
 
 The package works best with R Studio.To install the PoEdata package,
- 1. Download the package as one .zip file from https://github.com/ccolonescu/PoEdata
- 2. Unzip it to a temporary file on your Desktop
- 3. Find the file PoEdata.Rproj and open it in R Studio.
-    R Studio shold include all other files in the folder. If it doesn't,
-    check that you are in the un-zipped folder
- 4. Click on the butons Build >> Build & Reload, which will install the package.
-
+ install.packages("devtools")
+ library(devtools)
+ install_git("https://github.com/ccolonescu/PoEdata")
 Now it should be ready to use. For instance, if you wish to use the data set "andy":
 
  library(PoEdata)   # loads the package in memory
