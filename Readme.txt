@@ -26,4 +26,4 @@ http://www.principlesofeconometrics.com/poe4/poe4def.htm
 
 * The url information in the DESCRIPTION file is not valid. Please disregard it.
 
-Dylan's test.
+Acknowledgments: I thank Dylan Loader for helping me to build this package.
