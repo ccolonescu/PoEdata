@@ -19,7 +19,7 @@ Now it should be ready to use. For instance, if you wish to use the data set "an
  summary(lm( sales ~ price + advert + I(advert^2), data = andy))  # calculates a regression
 
 
-* Some of the files do not have yet documentation, but I'm working on it; In the meantime, 
+* Some of the data files do not have yet documentation, but I'm working on it; In the meantime, 
 you can access the missing descriptions here: 
 
 http://www.principlesofeconometrics.com/poe4/poe4def.htm
